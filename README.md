@@ -7,5 +7,5 @@ A Sudoku puzzle solver.
 Leveraging Knuth's Algorithm X to solve any Sudoku puzzle.
 
 ### CS Foundations - Final Project
-Finaly project for Computer Science Foundations at
+Final project: Computer Science Foundations -
 The Evergreen State College
