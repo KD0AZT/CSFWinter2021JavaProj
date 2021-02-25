@@ -33,7 +33,9 @@ public class User {
     
     }
     
-    public movesLeft() {
+    public movesRemaining() {
+    
+       //the goal of this class is to analyze the current values in the column, row, and subgrid of the selected box and compute the possible values that would satisfy them.
     
     }
     
