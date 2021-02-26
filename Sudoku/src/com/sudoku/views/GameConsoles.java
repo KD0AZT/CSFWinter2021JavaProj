@@ -1,3 +1,4 @@
+package Sudoku.src.com.sudoku.views
 import javax.swing.*;
 
 public class GameConsoles {

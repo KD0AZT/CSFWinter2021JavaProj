@@ -1,4 +1,4 @@
-package com.sudoku.views;
+package Sudoku.src.com.sudoku.views;
 
 public class GUI {
 

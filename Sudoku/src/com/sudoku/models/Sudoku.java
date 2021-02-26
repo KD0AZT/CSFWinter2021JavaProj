@@ -1,4 +1,4 @@
-package com.sudoku.models;
+package Sudoku.src.com.sudoku.models;
 
 
 public class Sudoku {

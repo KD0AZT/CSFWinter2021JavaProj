@@ -1,3 +1,4 @@
+package Sudoku.src.com.sudoku.models;
 
 public class Line {
 	
