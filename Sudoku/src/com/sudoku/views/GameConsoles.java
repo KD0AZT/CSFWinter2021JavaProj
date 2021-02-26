@@ -1,4 +1,4 @@
-package Sudoku.src.com.sudoku.views
+package com.sudoku.views;
 import javax.swing.*;
 
 public class GameConsoles {
@@ -15,8 +15,8 @@ public class GameConsoles {
 	}
 	
 	static int MainConsole(MainBoard board) {
-		String[] Choice = {"PUT", "Cancel"};
-		return JOptionPane.showOptionDialog(frame, board, "Game Play:", 0, -1, null, Choice, Choice[0]); 
+		String[] Choice = {"PUT", "Solve", "Cancel"};
+		return JOptionPane.showOptionDialog(frame, board, "Game Play:", 0, 1, -1, null, Choice, Choice[0]); 
 	}
 	
 	static Point choosePoint(MainBoard board) {

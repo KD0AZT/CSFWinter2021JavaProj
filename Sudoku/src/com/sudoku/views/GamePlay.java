@@ -1,4 +1,5 @@
-package Sudoku.src.com.sudoku.views
+package com.sudoku.views;
+import com.sudoku.models.*;
 
 public class GamePlay {
 

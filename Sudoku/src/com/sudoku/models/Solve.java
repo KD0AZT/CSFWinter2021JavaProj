@@ -1,4 +1,4 @@
-package Sudoku.src.com.sudoku.models;
+package com.sudoku.models;
 
 public class Solve {
 	/*
@@ -8,6 +8,11 @@ public class Solve {
 	
 	// find empty board method : return 2 element array with positions
 	public int[] empty(MainBoard board) {
+		for (int i = 0; i < board.point[0]; i++) {
+			for (int j = 0; j < board.point[0]; j++) {
+				
+			}
+		}
 		return null;
 	}
 	
