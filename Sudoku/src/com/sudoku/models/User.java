@@ -9,7 +9,7 @@ public class User {
     private setName() {
         
         Scanner keyboard = new Scanner(System.in);
-        System.out.print("Enter Username: ");
+        System.out.print("Enter User Name: ");
         userName = keyboard.next();
         keyboard.close();
         
