@@ -5,7 +5,8 @@ public class User {
     
     String userName;
     int userScore;
-    
+    int movesLeft;	
+
     private setName() {
         
         Scanner keyboard = new Scanner(System.in);
